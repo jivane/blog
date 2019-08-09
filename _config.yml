@@ -8,7 +8,7 @@ author: Jivane & Mylene
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 6
 
 # build settings
 markdown: kramdown
