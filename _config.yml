@@ -2,8 +2,8 @@
 title: This new adventure
 subtitle: 1+1 = 3
 description: Thank you to all of you<br />
-baseurl:  # the subpath of your site, e.g. /blog
-url: https://my.jivane.net # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: https://jivane.github.io # the base hostname & protocol for your site
 author: Jivane & Mylene
 
 # homepage tiles
