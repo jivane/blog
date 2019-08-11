@@ -12,5 +12,5 @@ Nous vous proposons de selectionner le cadeau que vous souhaitez et utiliser la 
 Many of you asked us for the wish list. 
 We suggest that you select a gift on the wish list and then you can use the pot with a little comment. We will take car of the rest
 
-[Cagnotte](https://paypal.me/pools/c/8eUOAyqEyM){: ."button next"}
-[Liste de naissance](https://www.mesenvies.fr/liste-naissance?r=39&led=7272451){: ."button next"}
+[Cagnotte](https://paypal.me/pools/c/8eUOAyqEyM){: .'button next'}
+[Liste de naissance](https://www.mesenvies.fr/liste-naissance?r=39&led=7272451){: .'button next'}
