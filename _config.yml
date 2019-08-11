@@ -1,32 +1,14 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: This new adventure
+subtitle: 1+1 = 3
+description: Thank you to all of you<br />
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: https://jivane.github.io # the base hostname & protocol for your site
 author: Jivane & Mylene
-street_address: 1234 Somewhere Road
-city: Saint Cloud
-state: Haut de Seine
-zip_code: 92210
-country: France
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
-
-# social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+tiles-count: 1
 
 # build settings
 markdown: kramdown
