@@ -74,7 +74,8 @@ nav-menu: true
 					<h3>La Soirée</h3>
 				</header>
 				<p></p>
-			</div>Cette journée a été conclue par une soirée chez les parents de Jivane. Les discours d' Améline, Stephane, Gilles, Rosy. Les animations organisées par nos amis les plus chers et nos familles nous ont particulièrement touchés. Ce moment restera a jamais gravé dans nos mémoires.
+			</div>
+			Cette journée a été conclue par une soirée chez les parents de Jivane. Les discours d' Améline, Stephane, Gilles, Rosy. Les animations organisées par nos amis les plus chers et nos familles nous ont particulièrement touchés. Ce moment restera a jamais gravé dans nos mémoires.
 		</div>
 	</section>
 </section>
