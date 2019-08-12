@@ -1,7 +1,7 @@
 ---
 title: Le mariage, le 12 Juillet 2019
 layout: landing
-description: 'In évenement exceptionnel<br />a la mairie de Saint Cloud, Quai Ouest et Garden Party'
+description: 'Un événement exceptionnel<br />à la mairie de Saint Cloud, Quai Ouest et Garden Party'
 image: assets/images/banner.jpg
 nav-menu: false
 ---
@@ -33,7 +33,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Parc de Saint Cloud</h3>
 				</header>
-				<p>Nous avons poursuivi au parc de Saint Cloud avec nos témoin pour une séance photo</p>
+				<p>Nous avons poursuivi au parc de Saint Cloud avec nos témoins pour une séance photo</p>
 			</div>
 		</div>
 	</section>
@@ -46,7 +46,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Quai Ouest</h3>
 				</header>
-				<p>Un cocktail déjeunatoire à Quai Ouest a permi de profiter des amis proches, de la famille et nos parents</p>
+				<p>Un cocktail déjeunatoire à Quai Ouest a permis de profiter des amis proches, de la famille et de nos parents</p>
 			</div>
 		</div>
 	</section>
@@ -59,7 +59,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Cérémonie Indienne - Le Ponke</h3>
 				</header>
-				<p>Une cérémonie indienne a été animé par Jessica pour partager nos origines à l'ensemble des invités et à la famille de Mylène</p>
+				<p>Une cérémonie indienne a été animée par Jessica pour partager nos origines à l'ensemble des invités et à la famille de Mylène</p>
 			</div>
 		</div>
 	</section>
@@ -74,7 +74,7 @@ nav-menu: false
 					<h3>La Soirée</h3>
 				</header>
 				<p></p>
-			</div>Cette journée a été conclu par une soirée chez les parents de Jivane. Les discours de Améline, Stephane, Gilles, Rosy. Les animations organisées par nos amis les plus chères et l'ensemble des famille nous ont particulièrement touchés. Ce moment restera a jamais gravé dans nos mémoires.
+			</div>Cette journée a été conclue par une soirée chez les parents de Jivane. Les discours d' Améline, Stephane, Gilles, Rosy. Les animations organisées par nos amis les plus chers et nos familles nous ont particulièrement touchés. Ce moment restera a jamais gravé dans nos mémoires.
 		</div>
 	</section>
 </section>
