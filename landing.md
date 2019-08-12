@@ -3,7 +3,7 @@ title: Le mariage, le 12 Juillet 2019
 layout: landing
 description: 'Un événement exceptionnel<br />à la mairie de Saint Cloud, Quai Ouest et Garden Party'
 image: assets/images/banner.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <!-- Main -->
