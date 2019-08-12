@@ -11,6 +11,9 @@ nav-menu: false
 
 <!-- One -->
 <section id="one">
+	<a href="generic.html" class="image">
+			<img src="assets/images/mairie.jpg" alt="" data-position="center center" />
+		</a>
 	<div class="inner">
 		<header class="major">
 			<h2>La mairie de Saint Cloud</h2>
@@ -23,7 +26,7 @@ nav-menu: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/parc.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +42,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/quaiouest.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +58,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/ponke.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,6 +76,9 @@ nav-menu: false
 
 <!-- Three -->
 <section id="three">
+	<a href="generic.html" class="image">
+			<img src="assets/images/soiree.jpg" alt="" data-position="center center" />
+		</a>
 	<div class="inner">
 		<header class="major">
 			<h2>La Soirée</h2>
