@@ -9,36 +9,21 @@ nav-menu: false
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
+<!-- Two -->
+<section id="two" class="spotlights">
+<section>
 	<a href="generic.html" class="image">
-			<img src="assets/images/mairie.jpg" alt="" data-position="center center" />
-		</a>
-	<div class="inner">
-		<header class="major">
-			<h2>La mairie de Saint Cloud</h2>
-		</header>
-		<p>Cet événement exceptionnel a été célébré à la mairie de Saint Cloud par l'élu Nicolas P. </p>
-	</div>
-</section>
-<section id="one" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/mairie.jpg" alt="" data-position="center center" />
+			<img src="assets/images/mairie.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>La mairie de Saint Cloud</h3>
 				</header>
-				<p>Cet événement exceptionnel a été célébré à la mairie de Saint Cloud par l'élu Nicolas P.</p>			
+				<p>Cet événement exceptionnel a été célébré à la mairie de Saint Cloud par l'élu Nicolas P.</p>
 			</div>
 		</div>
 	</section>
-	<section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/parc.jpg" alt="" data-position="center center" />
@@ -78,7 +63,7 @@ nav-menu: false
 			</div>
 		</div>
 	</section>
-</section>
+
 <section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/soiree.jpg" alt="" data-position="25% 25%" />
