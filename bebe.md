@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Liste de naissance
+title: L'arrivé de bébé
 description: Le bébé arrive au mois d'octobre...
 image: assets/images/bebe.jpg
 nav-menu: false
