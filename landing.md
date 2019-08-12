@@ -66,7 +66,7 @@ nav-menu: false
 
 <section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/soiree.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/soiree.JPG" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
