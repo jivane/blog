@@ -108,8 +108,11 @@
 			</ul>
 		</div>
 	</footer>
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+{% include analytics.html %}
 
-</div>
 
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>

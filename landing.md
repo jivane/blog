@@ -3,16 +3,17 @@ title: Le mariage, le 12 Juillet 2019
 layout: landing
 description: 'Un événement exceptionnel<br />à la mairie de Saint Cloud, Quai Ouest et Garden Party'
 image: assets/images/banner.jpg
+action : Les Photos
+actionlink: https://onedrive.live.com/?authkey=%21AFcub6n3KVVysV8&id=924B42FF78CF5EA6%21556616&cid=924B42FF78CF5EA
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main">
-
 <!-- Two -->
 <section id="two" class="spotlights">
 <section>
-	<a href="generic.html" class="image">
+	<a href="#" class="image">
 			<img src="assets/images/mairie.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -25,7 +26,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/parc.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,7 +39,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/quaiouest.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -51,7 +52,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/ponke.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -65,7 +66,7 @@ nav-menu: true
 	</section>
 
 <section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/soiree.JPG" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -75,7 +76,7 @@ nav-menu: true
 				</header>
 				<p></p>
 			</div>
-			Cette journée a été conclue par une soirée chez les parents de Jivane. Les discours d' Améline, Stephane, Gilles, Rosy. Les animations organisées par nos amis les plus chers et nos familles nous ont particulièrement touchés. Ce moment restera a jamais gravé dans nos mémoires.
+			Cette journée a été conclue par une soirée chez les parents de Jivane avec les discours d' Améline, Stephane, Gilles, Rosy. Les animations organisées par nos amis les plus chers et nos familles nous ont particulièrement touchés. Ce moment restera a jamais gravé dans nos mémoires.
 		</div>
 	</section>
 </section>
