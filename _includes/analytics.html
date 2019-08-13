@@ -7,3 +7,26 @@
     ga('create', 'UA-145577487-1', 'auto');
     ga('send', 'pageview');
   </script>
+  <script>
+  for (var links = document.links, i = 0, length = links.length; i < length; i++) {
+  var link = links[i];
+  if (link.hostname != window.location.hostname) {
+    link.onclick = function(e) {
+      var url = e.target.href;
+      var openingInNewWindow = (e.target.target && !e.target.target.match(/^_(self|parent|top)$/i)) || e.ctrlKey || e.shiftKey || e.metaKey;
+      ga('send', 'event', 'outbound', 'click', url, {
+        'transport': 'beacon',
+        'hitCallback': openingInNewWindow ? null : function() {
+          document.location = url;
+        }
+      });
+      return openingInNewWindow;
+    }
+  }
+}
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKMCZD6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
